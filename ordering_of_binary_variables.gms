@@ -2,9 +2,9 @@
 *After reading the following two articles, I decided to implement it in GAMS;
 
 *ordering of binary variables;
-*https://stackoverflow.com/questions/62432731/optimize-with-indexing-in-linear-programming;
-*Optimize with indexing in linear programming;
 *https://yetanothermathprogrammingconsultant.blogspot.com/2020/06/small-example-ordering-of-binary.html;
+*Optimize with indexing in linear programming;
+*https://stackoverflow.com/questions/62432731/optimize-with-indexing-in-linear-programming;
 
 Set    i   indexes         /1*9/;
 Parameters
