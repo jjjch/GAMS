@@ -1,4 +1,4 @@
-*Jiachun Guo, 6/21/2020;
+*jjjch, 6/21/2020;
 *After reading the following two articles, I decided to implement it in GAMS;
 
 *ordering of binary variables;
